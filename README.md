@@ -2,7 +2,7 @@
 
 **`Développeur Full Stack Web & Mobile`**
 
-Je suis développeur fullstack web et mobile depuis maintenant un peu plus de 4 ans. Je suis spécialisé dans l’écosystème React (React, React Native, Next.js) et les technologies back-end telles que Node.js, Express.js ou encore Supabase.
+Je suis développeur fullstack web et mobile depuis maintenant un peu plus de 5 ans. Je suis spécialisé dans l’écosystème React (React, React Native, Next.js) et les technologies back-end telles que Node.js, Express.js ou encore Supabase.
 
 [![Mon portfolio](https://custom-icon-badges.demolab.com/badge/-Mon_Portfolio-f0465a?style=for-the-badge&logo=koa-portfolio&logoColor=white)](https://www.nicolascamilloni.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-f0465a?style=for-the-badge&logo=koa-linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-camilloni/)
@@ -38,7 +38,7 @@ Je suis développeur fullstack web et mobile depuis maintenant un peu plus de 4 
 <details>
 <summary><h3>Mon aventure de développeur</h3></summary>
   
-Je suis développeur fullstack web et mobile depuis un peu plus de 4 ans, spécialisé dans l’écosystème React (React, React Native, Next.js) ainsi que dans des technologies back-end comme Node.js, Express.js et Supabase.
+Je suis développeur fullstack web et mobile depuis un peu plus de 5 ans, spécialisé dans l’écosystème React (React, React Native, Next.js) ainsi que dans des technologies back-end comme Node.js, Express.js et Supabase.
 
 Passionné par mon métier, j’ai toujours consacré une partie de mon temps libre à la création de projets personnels. C’est d’ailleurs en 2015, en développant mon premier serveur de jeu vidéo, que j’ai découvert cette passion pour le développement.
 
